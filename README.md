@@ -1,5 +1,6 @@
 # Insta_clone
 
+<p>
 Initial Requirements: 
 User Login/Signup - let's keep this easy and not do SSO
 Upload Photo 
@@ -8,6 +9,6 @@ Search for other Users
 Follow - one way follow
 Like Post
 Notificaiton
-
+</p>
 
 
